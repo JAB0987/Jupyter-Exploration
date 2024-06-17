@@ -1,1 +1,1 @@
-# Jupyter-Exploration
+# Jupyter-Exploration in this lab we will introduce, create and understand jupyter notebook. This repository is used for exploritng Jupyter Notebooks in the context of a lab session. It includes basic setups and operations as part of a learning exercise. 
